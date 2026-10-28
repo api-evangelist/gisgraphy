@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gisgraphy is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://gisgraphy.com/
+Gisgraphy provides open‑source geocoding and location services, offering web APIs for geocoding, reverse geocoding, address parsing, nearby place search, autocompletion, and access to extensive address and POI databases derived from Geonames and OpenStreetMap. The platform can be self‑hosted or accessed via free public web services, supporting developers building mapping, logistics, travel, and location‑aware applications.
+
+**Areas:** Company · Geocoding · Geolocation · OpenSource · Maps · API
+
+## Gisgraphy on APIs.io
+
+Everything profiled for Gisgraphy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gisgraphy/](https://apis.io/providers/gisgraphy/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Gisgraphy API](https://apis.io/apis/gisgraphy/gisgraphy-api-2/) — Public web services for geocoding, reverse geocoding, address parsing, nearby search, and POI data.
+- [Gisgraphy API](https://apis.io/apis/gisgraphy/gisgraphy-api/) — Gisgraphy API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-28); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gisgraphy API Rules](https://apis.io/rules/gisgraphy/gisgraphy-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gisgraphy Authentication](https://apis.io/security/gisgraphy/gisgraphy-authentication/)
+- [Gisgraphy Domain Security](https://apis.io/security/gisgraphy/gisgraphy-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Gisgraphy Scopes](https://apis.io/scopes/gisgraphy/gisgraphy-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gisgraphy Plans Pricing](https://apis.io/plans/gisgraphy/gisgraphy-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gisgraphy Rate Limits](https://apis.io/rate-limits/gisgraphy/gisgraphy-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gisgraphy.com/)
+- [Documentation](https://www.gisgraphy.com/documentation/)
+- [Getting started](https://www.gisgraphy.com/documentation/user-guide.php)
+- [API reference](https://www.gisgraphy.com/webservices/)
+- [Terms of service](https://www.gisgraphy.com/terms.php)
+- [Privacy policy](https://www.gisgraphy.com/privacy.php)
+- [GitHub](https://github.com/gisgraphy)
+
+## API Evangelist rating
+
+**Kin Score 45.6** — developing · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 33.7 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 49.5 |
+
+**Agent readiness 18.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gisgraphy/](https://apis.io/providers/gisgraphy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gisgraphy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/gisgraphy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
